@@ -1,0 +1,2 @@
+STEP 1 => pip install -r requirements.txt (install dependencies)
+STEP 2 => python app.py (run the application)
