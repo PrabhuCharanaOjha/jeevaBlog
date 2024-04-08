@@ -1,2 +1,4 @@
-STEP 1 => pip install -r requirements.txt (install dependencies)
-STEP 2 => python app.py (run the application)
+STEP 1 => git clone git@github.com:PrabhuCharanaOjha/jeevaBlog.git
+STEP 2 => git pull origin master
+STEP 3 => pip install -r requirements.txt (install dependencies)
+STEP 4 => python app.py (run the application)
